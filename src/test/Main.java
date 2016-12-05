@@ -21,10 +21,10 @@ public class Main {
     }
 
     private static void calculator(){
-        System.out.println("Добро пожаловать в калькулятор!");
+
     }
 
     private static void game(){
-        System.out.println("Добро пожаловать в игру угадай число!");
+
     }
 }
